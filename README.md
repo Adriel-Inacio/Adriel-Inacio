@@ -1,4 +1,21 @@
-## Hi there 👋
+# Oi!, Eu sou o Adriel Inácio 
+### Estudante de Programação buscadan evolução 
+
+- Iniciei meus estudos com Java 
+
+- Atualmente estudo JavaScript
+
+- Busco aumentar meu conhecimento
+
+- Amante de Técnologia
+
+### Técnologias que estou aprendendo
+- JavaScript/NodeJs
+- CSS/Html
+
+### Técnologias com mais familiaridade
+- JavaScript/NodeJs
+- SQL
 
 <!--
 **Adriel-Inacio/Adriel-Inacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
