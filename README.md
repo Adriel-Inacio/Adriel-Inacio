@@ -1,5 +1,5 @@
 # Oi!, Eu sou o Adriel Inácio 
-### Estudante de Programação buscadan evolução 
+### Estudante de Programação buscado evolução 
 
 - Iniciei meus estudos com Java 
 
